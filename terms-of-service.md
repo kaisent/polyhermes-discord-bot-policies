@@ -37,7 +37,7 @@ The bot owner may restrict access, remove users, disable commands, or shut down 
 
 ## Data and Privacy
 
-Use of the bot is also governed by our Privacy Policy: [paste your Privacy Policy URL here]
+Use of the bot is also governed by our Privacy Policy: [https://kaisent.github.io/polyhermes-discord-bot-policies/]
 
 ## Limitation of Liability
 
