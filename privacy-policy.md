@@ -1,6 +1,6 @@
 # Privacy Policy for [polyhermes]
 
-Last updated: [06/26,2026]
+Last updated: [06/15,2026]
 
 [polyhermes] is a Discord bot used to connect Discord messages to a Hermes Agent workflow.
 
